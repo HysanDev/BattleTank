@@ -1,0 +1,25 @@
+########################
+#Unreal Generated Files#
+########################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate/
+*/Saved
+*.uasset
+
+#####################
+#Visual Studio Files#
+#####################
+*.VC.db
+*.db-shm
+*.db-wal
+*.ipch
+*.aps
+*.lib
+*.tlog
+*.suo
+=======
+*.opendb
+*.wav
+
