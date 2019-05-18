@@ -1,2 +1,29 @@
-BattleTank/BattleTank/Content/StarterContent/
-BattleTank/BattleTank/Content/ProceduralNaturePack/
+BattleTank/Content/StarterContent/
+BattleTank/Content/ProceduralNaturePack/
+
+BattleTank/Content/StarterContent/
+BattleTank/Content/ProceduralNaturePack/
+
+########################
+#Unreal Generated Files#
+########################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate/
+*/Saved
+
+#####################
+#Visual Studio Files#
+#####################
+*.VC.db
+*.db-shm
+*.db-wal
+*.ipch
+*.aps
+*.lib
+*.tlog
+*.suo
+=======
+*.opendb
+*.wav
